@@ -3,8 +3,9 @@
 <title>Starbuzz Coffee's Mission</title>
 </head>
 <body>
-<h1>To provide all the caffeine that you need to power your life.</h1>
-<p>Just drink it.</p>
+<h1>Starbuzz Coffee's Mission</h1>
+<h2>To provide all the caffeine that you need to power your life.</h2>
+<h2>Just drink it.</h2>
 </body>
 
 </html>

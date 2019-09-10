@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Starbuzz Coffee's Mission</title>
+</head>
+<body>
+<h1>To provide all the caffeine that you need to power your life.</h1>
+<p>Just drink it.</p>
+</body>
+
+</html>
